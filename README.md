@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Ian Sebby
-- 👀 I’m interested in Data Science, Maching Learning, and Econometrics.
-- 🌱 I’m currently learning Statistics and Economics at the University of Tennessee, Knoxville.
+
